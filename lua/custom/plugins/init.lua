@@ -3,6 +3,7 @@
 --
 -- See the kickstart.nvim README for more information
 return {
+    'folke/zen-mode.nvim',
     'mbbill/undotree',
     'ThePrimeagen/harpoon',
     'ThePrimeagen/refactoring.nvim',
