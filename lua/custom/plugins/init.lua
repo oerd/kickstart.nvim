@@ -4,4 +4,6 @@
 -- See the kickstart.nvim README for more information
 return {
     'mbbill/undotree',
+    'ThePrimeagen/harpoon',
+    'ThePrimeagen/refactoring.nvim',
 }
